@@ -31,13 +31,13 @@ This project includes
 - Number of classes = 43
 
 #### Dataset vizualization
-[png](output_images/dataset_viz.png)
+![Dataset vizualization](output_images/dataset_viz.png)
 
 #### Classes before data augmentation
-[png](output_images/classes_before_augmentation.png)
+![Classe before data augmentation](output_images/classes_before_augmentation.png)
 
 #### Classes after data augmentation
-[png](output_images/classes_after_augmentation.png)
+![Classes after data augmentation](output_images/classes_after_augmentation.png)
 
 
 ---
@@ -108,10 +108,10 @@ Final model results were:
 - Prediction is quite good is 80% (e.g. for the example shown in notebook the predictions found 4 out of 5 signs).
 
 #### New images vizualization
-[png](output_images/new_sings.png)
+![New images vizualization](output_images/new_sings.png)
 
 #### New images with labels after prediction
-[png](output_images/new_signs_with_label.png)
+![New images labels after prediction](output_images/new_signs_with_label.png)
 
 #### Softmax probabilities:
 - k constant set to 5 according to the rubric
