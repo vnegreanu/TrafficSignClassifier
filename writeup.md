@@ -31,13 +31,13 @@ This project includes
 - Number of classes = 43
 
 #### Dataset vizualization
-[png](output_images/dataset_viz.png)
+![Data vizualization](output_images/dataset_viz.png)
 
 #### Classes before data augmentation
-[png](output_images/classes_before_augmentation.png)
+![Classes before data augmentation](output_images/classes_before_augmentation.png)
 
 #### Classes after data augmentation
-[png](output_images/classes_after_augmentation.png)
+![Classes after data augmentation](output_images/classes_after_augmentation.png)
 
 
 ---
@@ -122,10 +122,10 @@ image4->Original: Road work  Prediction-> 1. Road work: 64.00%  2. Go straight o
 image5->Original: Turn left ahead  Prediction-> 1. Turn left ahead: 100.00% 2. Children crossing: 0.00% 3. Bicycles crossing: 0.00% 4. Beware of ice/snow: 0.00% 5. Ahead only: 0.00% 
 
 #### New images vizualization
-[png](output_images/new_sings.png)
+![New images vizualization](output_images/new_sings.png)
 
 #### New images with labels after prediction
-[png](output_images/new_signs_with_label.png)
+![New images with labels after prediction](output_images/new_signs_with_label.png)
 
 #### Softmax probabilities:
 - tf.nn.softmax will compute the softmax activations and returns a tensor. 
